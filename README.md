@@ -13,11 +13,11 @@ In my school, I practice computer development several times a week with a teache
 
 ```python
 mySkills = {
-    "Lua":"+ 1 year",
+    "Lua":"+ 2 years",
     "Javascript":"6 months",
     "HTML/CSS":"+ 1 year",
-    "Python":"1 year",
-    "3D":"1 year"
+    "Python":"2 years",
+    "3D":"2 years"
 }
 
 for k, v in mySkills.items():
