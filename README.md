@@ -1,8 +1,8 @@
 # 🧑 **Alones** profile
 
-Hey, my nickname is **Alones**, I am 17 years old and I'm French. I'm a **developer** and **3D modeler** since 1 year. 
+Hey, my nickname is **Alones**, I am 18 years old and I'm French. I'm a **developer** and **3D modeler** since 2 year. 
 I live near Paris and I love playing *video games*, outings with *friends*, *computing* and *discover* new things.
-In my school, I practice computer development several times a week with a teacher to improve myself in this area.
+I will participate to the 42School Piscine on February 2023.
 
 ### 💪 My skills
 
