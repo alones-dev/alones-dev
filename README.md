@@ -3,5 +3,5 @@
 ## About me 👋
 
 - 🚩 Live near **Paris**
-- 🎞️ I like **music**, **videos games** and **programming**
+- 🎞️ I like **music**, **movies** and **programming**
 - 🏢 **42School** student
